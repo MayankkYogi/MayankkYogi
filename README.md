@@ -7,7 +7,7 @@ Currently, I am looking for a full-time role in Data Science, Machine Learning o
 ### Things I'm good at :fire:
 **Languages:**  Python, SQL, HTML, CSS, JavaScript, C#.
 
-**Framework:** Flask, AngularJS, ReactJS.
+**Framework:** Flask, AngularJS, ReactJS,VS.
 
 **Libraries & Tools:** AWS EC2, AWS S3, Lambda Functions, NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, PyTorch, Keras, NLTK.
 
